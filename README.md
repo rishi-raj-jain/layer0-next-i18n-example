@@ -4,10 +4,8 @@ A demo deployment of Next.js i18 app to Layer0.
 
 ## Demo
 
-http://localhost:3000/ for the English homepage.
-http://localhost:3000/de/ for the German homepage.
-http://localhost:3000/en/isr for the English homepage.
-http://localhost:3000/de/isr for the German homepage.
+https://rishi-raj-jain-layer0-next-i18n-example-default.layer0-limelight.link/en/isr for the English homepage.
+https://rishi-raj-jain-layer0-next-i18n-example-default.layer0-limelight.link/de/isr for the German homepage.
 
 ## Try It Now
 
